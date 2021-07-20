@@ -60,3 +60,5 @@
  - To strengthen the bowling of the team SL Malinga should definitely be
    considered. No Doubt why Mumbai Indians is the team with maximum no  
    of titles under their name.
+
+Link for [Python Code](https://github.com/anooppainuly/Data-Science-Projects/blob/main/Python%20Code.ipynb)
