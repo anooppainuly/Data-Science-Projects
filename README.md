@@ -9,5 +9,6 @@ The process of learning begins with data, such as, direct experience, or instruc
 **Repository Overview**
 This repository is about different Data Science/Machine Learning algorithm approaches as per the industry practices.
 
-Table of Contents
-EDA on IPL
+#### Table of Contents
+
+ - EDA on IPL
