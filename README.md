@@ -11,18 +11,10 @@ This repository is about different Data Science/Machine Learning algorithm appro
 
 #### Table of Contents
 
-<div id="TOC">
-        <li>
-            <a href="#eda">EDA on IPL</a>
-        </li>
-      
-</div>
-<div id="eda">
-    <h2>
-        <a href="#TOC">EDA on IPL</a>
-    </h2>
-        
-        # Exploratory Data Analysis on IPL
+ - EDA on IPL
+
+
+# [Exploratory Data Analysis on IPL](https://github.com/anooppainuly/Data-Science-Projects/blob/main/EDA%20on%20IPL/README.md)
 ![enter image description here](https://github.com/anooppainuly/Data-Science-Projects/blob/main/IPL%20Logo.png?raw=true)
 •The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested every year by eight teams representing eight different cities in India.
 
