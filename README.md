@@ -11,17 +11,15 @@ This repository is about different Data Science/Machine Learning algorithm appro
 
 #### Table of Contents
 
- - EDA on IPL
-
 <div id="TOC">
     <ul>
         <li>
-            <a href="#introduction">EDA on IPL</a>
+            <a href="#eda">EDA on IPL</a>
         </li>
       
     </ul>
 </div>
-<div id="introduction">
+<div id="eda">
     <h2>
         <a href="#TOC">EDA on IPL</a>
     </h2>
