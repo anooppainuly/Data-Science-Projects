@@ -15,7 +15,10 @@ This repository is about different Data Science/Machine Learning algorithm appro
         <li>
             <a href="#eda">Exploratory Data Analysis on IPL</a>
         </li>
-      
+      <div id="eda">
+    <h2>
+        <a href="#TOC"># [Exploratory Data Analysis on IPL](https://github.com/anooppainuly/Data-Science-Projects/blob/main/EDA%20on%20IPL/README.md)</a>
+    </h2>
 </div>
 
 # [Exploratory Data Analysis on IPL](https://github.com/anooppainuly/Data-Science-Projects/blob/main/EDA%20on%20IPL/README.md)
