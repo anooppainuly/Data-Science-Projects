@@ -17,7 +17,6 @@ This repository is about different Data Science/Machine Learning algorithm appro
             <a href="#eda">EDA on IPL</a>
         </li>
       
-    </ul>
 </div>
 <div id="eda">
     <h2>
