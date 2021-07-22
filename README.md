@@ -13,33 +13,15 @@ This repository is about different Data Science/Machine Learning algorithm appro
 
  - EDA on IPL
 
-
-<h1 class="title">
-    True Happiness
-</h1>
 <div id="TOC">
     <ul>
         <li>
-            <a href="#introduction">Introduction</a>
+            <a href="#introduction">EDA on IPL</a>
         </li>
-        <li>
-            <a href="#first-attempts">First Attempts</a>
-        </li>
+      
     </ul>
 </div>
 <div id="introduction">
     <h2>
-        <a href="#TOC">Introduction</a>
+        <a href="#TOC">EDA on IPL</a>
     </h2>
-    <p>
-        Many have posed the question of true happiness. In this blog post we propose to solve it.
-    </p>
-</div>
-<div id="first-attempts">
-    <h2>
-        <a href="#TOC">First Attempts</a>
-    </h2>
-    <p>
-        The earliest attempts at attaining true happiness of course aimed at pleasure. Soon, though, the downside of pleasure was revealed.
-    </p>
-</div>
