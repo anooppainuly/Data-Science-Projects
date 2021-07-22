@@ -19,7 +19,7 @@ This repository is about different Data Science/Machine Learning algorithm appro
 </div>
 <div id="eda">
     <h2>
-        <a href="#TOC">EDA on IPL</a>
+        <a href="#TOC">Exploratory Data Analysis on IPL</a>
     </h2>
 
 
